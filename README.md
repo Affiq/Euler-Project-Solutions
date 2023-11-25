@@ -1,4 +1,4 @@
-# VectareProblems
+# Euler Project Solutions
 
 Solutions can be found in VectaraProblems/src
 
